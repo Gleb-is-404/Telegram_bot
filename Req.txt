@@ -1,0 +1,6 @@
+telegram
+sqlalchemy
+datetime
+sklearn
+numpy
+json
